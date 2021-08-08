@@ -1,4 +1,4 @@
-# Тетрис / Tetris
+# Игра ''Тетрис'' / Tetris
 The alfProject License (MIT)
 Copyright (c) 2021 / Федоренко Л.А.
 
